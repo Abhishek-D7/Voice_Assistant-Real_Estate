@@ -1,0 +1,11 @@
+gradio
+faster-whisper
+transformers
+torchaudio
+langdetect
+langchain
+langchain-community
+faiss-cpu
+datasets
+openai
+langchain-openai
