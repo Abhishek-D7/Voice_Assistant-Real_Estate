@@ -9,4 +9,4 @@ app_file: app.py
 pinned: false
 ---
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+Check out the App Deployment at Huggingface Spaces: https://huggingface.co/spaces/Abhishek-D7/Voice_Assistant-Real_Estate
